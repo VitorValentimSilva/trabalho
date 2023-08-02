@@ -487,3 +487,15 @@ menu{
   float: right;
   margin: 5%;
 }
+
+menu > h3{
+  text-align: center;
+  display: inline-block;
+  padding-top: 10%;
+}
+
+menu > img{
+  display: inline-block;
+  cursor: pointer;
+  
+}
