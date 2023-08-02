@@ -483,6 +483,7 @@ footer > section > p{
   bottom: 0;
   left: 69px;
   padding: 3.3%;
+  padding-right: 30%;
 }
 
 menu{
@@ -493,7 +494,6 @@ menu{
   display: inline;
   float: right;
   margin: 5%;
-  
   background-color: #FFFFFF;
   padding: 1%;
 }
