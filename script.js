@@ -73,6 +73,9 @@ function menu(){
     social.style.display = 'none'
     fechar.style.display = 'none'
     menuNome.style.display = 'flex'
+    logo.style.position = 'absolute'
+    logo.style.top = '4320px'
+    logo.style.left = '270px'
   }
   else{
     sair.style.display = 'block'
