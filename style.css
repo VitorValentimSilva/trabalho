@@ -12,11 +12,8 @@ body, html{
   width: 100vw;
   max-width: 100%;
   padding-right: 10px;
-}
-
-body{
   zoom: 100%;
-{
+}
   
 header{
   background-color: rgb(68, 68, 190);
