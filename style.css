@@ -99,7 +99,7 @@ h3{
 }
 
 h3 > img{
-  margin-left: 48%;
+  margin-left: 45%;
   display: flex;
   cursor: pointer;
 }
@@ -436,7 +436,7 @@ footer > p{
 
 .social{
   display: inline;
-  padding: 46.6px;
+  padding: 35px;
   float: left;
   color: #FFFFFF;
 }
