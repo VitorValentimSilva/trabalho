@@ -73,9 +73,7 @@ function menu(){
     social.style.display = 'none'
     fechar.style.display = 'none'
     menuNome.style.display = 'flex'
-    logo.style.position = 'absolute'
-    logo.style.top = '4320px'
-    logo.style.left = '270px'
+    logo.style.display = 'none'
   }
   else{
     sair.style.display = 'block'
@@ -88,8 +86,9 @@ function menu(){
     social.style.display = 'inline-block'
     fechar.style.display = 'flex'
     menuNome.style.display = 'none'
+    logo.style.display = 'inline'
     logo.style.position = 'absolute'
     logo.style.bottom = '-12px'
-    logo.style.left = '323px'
+    logo.style.left = '303px'
   }
 }
