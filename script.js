@@ -60,6 +60,7 @@ function menu(){
   var social = document.querySelector('.social')
   var fechar = document.querySelector('#fechar')
   var menuNome = document.querySelector('#menu')
+  var logo = document.querySelector('#logo')
 
   if(menu.style.display == 'none'){
     sair.style.display = 'none'
@@ -84,5 +85,8 @@ function menu(){
     social.style.display = 'inline-block'
     fechar.style.display = 'flex'
     menuNome.style.display = 'none'
+    logo.style.position = 'absolute'
+    logo.style.bottom = '-12px'
+    logo.style.left = '323px'
   }
 }
