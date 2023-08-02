@@ -15,6 +15,7 @@ body, html{
 }
 
 body {
+  overflow-x: hidden;
   zoom: 100%;
   -moz-transform: scale(1);
   -moz-transform-origin: 0 0;
