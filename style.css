@@ -492,10 +492,23 @@ menu > h3{
   text-align: center;
   display: inline-block;
   padding-top: 10%;
+  padding-left: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  width: 168px;
+  padding-right: 5%;
 }
 
 menu > img{
   display: inline-block;
   cursor: pointer;
-  
+}
+
+.sitesMenu{
+  text-decoration: none;
+  color: #FFFFFF;
+  font-weight: 500;
+  font-size: 20px;
+  display: inline-block;
+  margin: 3%;
 }
