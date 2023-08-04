@@ -28,17 +28,28 @@ body {
 }
 
 header{
+  background: url("../img/FundoCel.png");
+  background-size: cover;
+  background-position: center;
   background-color: rgb(68, 68, 190);
   padding-bottom: 50px;
   margin-bottom: 17%;
 }
 
 header > img{
-  background: linear-gradient(125.33deg, #FA3992 3.91%, #FE6470 89.78%);
-  margin-top: 10%;
-  margin-bottom: 4%;
-  width: 480px;
-  height: 340px;
+  margin-top: 4%;
+}
+
+header > span{
+  color: #FFFFFF;
+  border: 1px solid #D9D9D980;
+  border-radius: 50%;
+  padding: 2%;
+  cursor: pointer;
+}
+
+#setaCelEs{
+  margin-right: 70%;
 }
 
 h1{
@@ -504,18 +515,13 @@ menu{
 
 menu > h3{
   text-align: center;
-  display: inline-block;
+  display: inline;
   padding-top: 10%;
   padding-left: 0px;
   padding-right: 0px;
   padding-bottom: 0px;
   width: 168px;
-  padding-right: 5%;
-}
-
-menu > img{
-  display: inline-block;
-  cursor: pointer;
+  padding-right: 0;
 }
 
 .sitesMenu{
@@ -529,6 +535,18 @@ menu > img{
 
 header > section{
   display: none;
+}
+
+menu > span{
+  color: #FFFFFF;
+  display: inline;
+  margin-top: 8%;
+  cursor: pointer;
+  margin-left: 0.8%;
+}
+
+#ficarbonito{
+  margin-top: 7%;
 }
 
 #lovePC{

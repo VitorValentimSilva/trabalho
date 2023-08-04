@@ -89,6 +89,6 @@ function menu(){
     logo.style.display = 'inline'
     logo.style.position = 'absolute'
     logo.style.bottom = '-19px'
-    logo.style.left = '280px'
+    logo.style.left = '230px'
   }
 }
