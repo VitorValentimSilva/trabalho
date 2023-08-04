@@ -142,7 +142,7 @@
   #planoEssencial{
     display: inline;
     float: left;
-    padding-left: 3%;
+    padding-left: 0;
   }
 
   #planoEssencial > h3{
@@ -193,7 +193,7 @@
 
   #planoClassico{
     height: 627px;
-    margin-left: 7.2%;
+    margin-left: 5.4%;
     padding-left: 0;
     background-color: #F8F4F1;
     border: 1px solid #F8F4F1;
@@ -241,7 +241,7 @@
   #planoSupremo{
     display: inline;
     float: left;
-    padding-left: 3%;
+    padding-left: 1%;
   }
 
   #planoSupremo > h3{
@@ -647,5 +647,20 @@
     border-top-left-radius: 50%;
     border-bottom-left-radius: 50%;
     background-color: #003087;
+  }
+
+  #presente > img{
+    cursor: pointer;
+    display: inline;
+    float: left;
+    border-radius: 50%;
+    margin-left: 1%;
+    margin-top: 19.4%;
+    background-color: #F8F4F1;
+  }
+
+  main > #presente > #setaDireita{
+    float: right;
+    padding-right: 1%;
   }
 }

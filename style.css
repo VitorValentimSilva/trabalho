@@ -555,3 +555,7 @@ header > section{
 #linguaPC{
   display: none;
 }
+
+#presente > img{
+  display: none;
+}
