@@ -559,3 +559,11 @@ header > section{
 #presente > img{
   display: none;
 }
+
+#setaPC{
+  display: none;
+}
+
+#setaEsquerda{
+  display: none;
+}
