@@ -1,4 +1,4 @@
-@media screen and (min-width: 1300px){
+@media screen and (min-width: 1350px){
   header{
     padding-bottom: 13%;
     margin-bottom: 0;
@@ -133,8 +133,8 @@
     margin-left: 3.5%;
     display: inline;
     padding: 1.6%;
-    padding-right: 4.1%;
-    padding-left: 4.1%;
+    padding-right: 3%;
+    padding-left: 3%;
   }
 
   main > section > h2{
@@ -165,6 +165,8 @@
     display: inline;
     float: left;
     padding-left: 0;
+    align-items: center;
+    box-sizing: border-box;
   }
 
   #planoEssencial > h3{
@@ -214,6 +216,8 @@
   .quero{padding: 5%;}
 
   #planoClassico{
+    align-items: center;
+    box-sizing: border-box;
     height: 627px;
     margin-left: 5.4%;
     padding-left: 0;
@@ -261,6 +265,8 @@
   }
 
   #planoSupremo{
+    align-items: center;
+    box-sizing: border-box;
     display: inline;
     float: left;
     padding-left: 1%;
@@ -368,6 +374,8 @@
   }
 
   #falecimentos > div{
+    align-items: center;
+    box-sizing: border-box;
     border-bottom: 2px solid #D8D8D8;
     border-top: 2px solid #D8D8D8;
     margin: 0;
@@ -576,6 +584,8 @@
   .politica{
     padding-top: 2%;
     padding-right: 5%;
+    align-items: center;
+    box-sizing: border-box;
   }
 
   #redes > .politica > p{
@@ -591,7 +601,7 @@
   #numero{
     display: inline;
     float: left;
-    padding-right: 15%;
+    padding-right: 140px;
     padding-top: 2%;
   }
 
