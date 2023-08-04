@@ -61,6 +61,7 @@ header > a{
   margin-left: 7%;
   margin-right: 7%;
   padding: 6%;
+  margin-bottom: 5%;
 }
 
 #conhecer{
@@ -402,11 +403,11 @@ h4{
   margin-top: 5%;
 }
 
-#redes > img{
+#redes > #numero > img{
   display: inline-block;
 }
 
-#redes > h5{
+#redes > #numero > h5{
   margin-top: 2%;
   margin-bottom: 15%;
   display: inline-block;
@@ -521,4 +522,36 @@ menu > img{
   font-size: 20px;
   display: inline-block;
   margin: 3%;
+}
+
+header > section{
+  display: none;
+}
+
+#lovePC{
+  display: none;
+}
+
+#beneficios > img{
+  display: none;
+}
+
+#falecimentos > p{
+  display: none;
+}
+
+.PC{
+  display: none;
+}
+
+#whatsapp{
+  display: none;
+}
+
+#accessible{
+  display: none;
+}
+
+#linguaPC{
+  display: none;
 }

@@ -88,7 +88,7 @@ function menu(){
     menuNome.style.display = 'none'
     logo.style.display = 'inline'
     logo.style.position = 'absolute'
-    logo.style.bottom = '-12px'
-    logo.style.left = '303px'
+    logo.style.bottom = '-19px'
+    logo.style.left = '280px'
   }
 }

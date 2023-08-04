@@ -1,0 +1,648 @@
+@media screen and (min-width: 1300px){
+  header{
+    padding-bottom: 13%;
+    margin-bottom: 0;
+  }
+
+  header > section{
+    display: block;
+  }
+
+  #Acliente{
+    background-color: #676EA4F2;
+    display: flex;
+    float: right;
+    padding-left: 89.8%;
+    color: white;
+    cursor: pointer;
+  }
+
+  #Acliente > p{
+    padding: 3%;
+  }
+
+  #Acliente > span{
+    margin: 4%;
+  }
+
+  #opcoes{
+    margin-top: 2.1%;
+    background-color: #FFFFFF;
+    padding-bottom: 8%;
+  }
+
+  #opcoes > img{
+    float: left;
+    margin: auto;
+    margin-top: 0.8%;
+  }
+
+  #logo2{
+    padding-left: 2%;
+  }
+
+  #opcoes > p{
+    float: left;
+    margin-top: 3%;
+    margin-left: 3%;
+    font-weight: 500;
+    font-size: 18px;
+    color: #6C6B75;
+    cursor: pointer;
+  }
+
+  #ficarCerto{
+    padding-left: 15%;
+  }
+
+  .parabaixo{
+    padding-left: 0.4%;
+    padding-top: 2.8%;
+    cursor: pointer;
+  }
+
+  #opcoes > a{
+    text-decoration: none;
+    float: left;
+    margin-top: 3%;
+    color: #6C6B75;
+    font-weight: 500;
+    font-size: 18px;
+    margin-left: 3%;
+  }
+
+  #loveCel{
+    display: none;
+  }
+
+  #lovePC{
+    display: inline;
+  }
+
+  header > img{
+    float: right;
+    margin-right: 2.5%;
+    width: 650px;
+    height: 450px;
+    border: 1px solid black;
+    border-radius: 40%;
+    margin-top: 4%;
+  }
+
+  header > h1{
+    padding-top: 2.6%;
+    margin-top: 2.5%;
+    margin-right: 3%;
+    margin-left: 4%;
+    padding-left: 0;
+    margin-bottom: 4%;
+    text-align: left;
+    display: flex;
+    font-weight: 800;
+    font-size: 52px;
+  }
+
+  header > a{
+    margin-top: 6%;
+    margin-right: 0;
+    margin-left: 3.1%;
+    display: inline;
+    padding: 1.6%;
+    padding-right: 5%;
+    padding-left: 5%;
+  }
+
+  main > section > h2{
+    font-weight: 500;
+    font-size: 40px;
+    margin: 0;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 5%;
+  }
+
+  #economize{
+    font-weight: 400;
+    font-size: 19px;
+    margin: 4%;
+    margin-top: 5%;
+    margin-left: 18%;
+    margin-right: 18%;
+  }
+
+  #planoEssencial > h3 > img{display: none;}
+
+  #planoClassico > h3 > img{display: none;}
+
+  #planoSupremo > h3 > img{display: none;}
+
+  #planoEssencial{
+    display: inline;
+    float: left;
+    padding-left: 3%;
+  }
+
+  #planoEssencial > h3{
+    text-align: center;
+    padding-left: 31%;
+    padding-right: 48.5%;
+  }
+
+  h3{
+    font-weight: 400;
+    margin-left: 8%;
+    font-size: 30px;
+    color: #FFFFFF;
+    border-radius: 20px 20px 0px 0px;
+    width: 20%;
+    float: left;
+    padding-bottom: 1.7%;
+    padding-right: 1%;
+    padding-left: 6%;
+    padding-top: 2%;
+  }
+
+  #planos{
+    display: block;
+    padding-top: 10%;
+    margin-left: 8%;
+    width: 374px;
+    border-radius: 20px;
+  }
+
+  #planos > p{
+    font-weight: 500;
+    padding-right: 8%;
+    font-size: 17px;
+    color: #6C6B75;
+  }
+
+  #planos > h4{
+    font-size: 36px;
+  }
+
+  #planos > a{
+    margin-left: 10%;
+    margin-right: 10%;
+  }
+
+  .quero{padding: 5%;}
+
+  #planoClassico{
+    height: 627px;
+    margin-left: 7.2%;
+    padding-left: 0;
+    background-color: #F8F4F1;
+    border: 1px solid #F8F4F1;
+    border-radius: 20px;
+    display: inline;
+    float: left;
+  }
+
+  #planoClassico > h3{
+    margin: 0;
+    text-align: center;
+    padding-left: 31%;
+    padding-right: 48.5%;
+  }
+
+  #planos2{
+    border: none;
+    display: inline;
+    margin-left: 8%;
+    width: 374px;
+    border-radius: 20px;
+    padding-top: 10%;
+    margin-top: 10%;
+    margin-left: 0;
+    padding-bottom: 0;
+  }
+
+  #planos2 > p{
+    padding: 6%;
+    font-weight: 500;
+    padding-right: 8%;
+    font-size: 17px;
+    color: #6C6B75;
+  }
+
+  #planos2 > h4{
+    font-size: 36px;
+  }
+
+  #planos2 > a{
+    margin-left: 10%;
+    margin-right: 10%;
+  }
+
+  #planoSupremo{
+    display: inline;
+    float: left;
+    padding-left: 3%;
+  }
+
+  #planoSupremo > h3{
+    text-align: center;
+    padding-left: 31%;
+    padding-right: 48.5%;
+    margin-top: 0%
+  }
+
+  #planos3{
+    height: 561px;
+    display: block;
+    padding-top: 15%;
+    margin-left: 8%;
+    width: 374px;
+    border-radius: 20px;
+  }
+
+  #planos3 > p{
+    font-weight: 500;
+    padding-right: 8%;
+    font-size: 17px;
+    color: #6C6B75;
+  }
+
+  #planos3 > h4{
+    font-size: 36px;
+  }
+
+  #planos3 > a{
+    margin-left: 10%;
+    margin-right: 10%;
+  }
+
+  #presente{
+    padding-bottom: 52%;
+  }
+
+  #beneficios{
+    padding-top: 1%;
+    padding-bottom: 5.5%;
+  }
+
+  #beneficios > img{
+    display: flex;
+    float: left;
+  }
+
+  #beneficios > h2{
+    font-weight: 500;
+    font-size: 33.1px;
+    display: flex;
+    margin: 0;
+    padding: 0;
+    padding-top: 3%;
+    padding-right: 2%;
+    float: left;
+  }
+
+  #beneficios > p{
+    display: flex;
+    padding: 0;
+    font-size: 18px;
+    text-align: left;
+    margin: 6%;
+    margin-bottom: 4%;
+  }
+
+  #beneficios > div{
+    margin: 2%;
+    margin-right: 8%;
+    padding: 1.6%;
+    font-weight: 500;
+    font-size: 16px;
+  }
+
+  #beneficios > div > span{
+    padding-right: 5%;
+  }
+
+  #falecimentos > h2{
+    font-size: 40px;
+    padding-top: 2%;
+    padding-bottom: 4.5%;
+    margin-bottom: 3.2%;
+    margin-right: 8.6%;
+    margin-left: 8.6%;
+  }
+
+  #falecimentos > p{
+    display: inline;
+    color: #676EA4;
+    font-weight: 400;
+    font-size: 24px;
+    border: 1px solid #F8F0EB;
+    background-color: #F8F0EB;
+    margin: 0;
+    padding-left: 6.9%;
+    padding-right: 6.9%;
+    padding-top: 3.1%;
+    padding-bottom: 2.4%;
+  }
+
+  #falecimentos > div{
+    border-bottom: 2px solid #D8D8D8;
+    border-top: 2px solid #D8D8D8;
+    margin: 0;
+    padding-top: 2%;
+    margin-left: 8.6%;
+    margin-right: 8.6%;
+    padding-bottom: 3%;
+    margin-top: 2.6%;
+  }
+  
+  #falecimentos > div > h6{
+    font-weight: 400;
+    margin-right: 0;
+    margin-left: 0;
+    color: #6C6B75;
+    font-size: 18px;
+    text-align: center;
+    display: inline;
+    float: left;
+    margin-left: 4.6%;
+  }
+
+  #falecimentos > div > p{
+    text-align: center;
+    font-size: 18px;
+    color: #6C6B75;
+    float: left;
+    display: inline;
+    padding-left: 0;
+  }
+
+  .dia{
+    display: none;
+  }
+
+  .local{
+    display: none;
+  }
+
+  .sepulta{
+    display: none;
+  }
+
+  .local2{
+    display: none;
+  }
+
+  .PC{
+    display: inline;
+    margin-left: 59%;
+  }
+
+  .deixarCerto1{
+    margin-left: 12%;
+    margin-right: 14%;
+  }
+
+  .deixarCerto2{
+    margin-right: 8%;
+  }
+
+  #falecimentos > #deixarCerto3{
+    background-color: #F8F4F180;
+    margin-top: 0;
+    margin-bottom: 5%;
+  }
+
+  #falecimentos > a{
+    font-size: 18px;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-bottom: 2.1%;
+    padding-top: 2.1%;
+  }
+
+  #locais{
+    background-color: #F8F4F1;
+    margin-top: 6%;
+    border-top: 2px solid rgba(0, 0, 0, 0.103);
+    display: inline;
+    float: left;
+  }
+  
+  #locais > h2{
+    font-size: 40px;
+    padding-top: 3%;
+    margin-left: 11%;
+    margin-right: 50%;
+    text-align: left;
+    padding-bottom: 6%;
+    border-bottom: none;
+  }
+
+  #locais > div{
+    border-bottom: none;
+    margin-top: 0;
+    margin-right: 0;
+    margin-bottom: 1%;
+    margin-left: 0;
+    padding-top: 2%;
+    padding-bottom: 0;
+  }
+
+  #PP{
+    display: inline;
+    padding-left: 11.4%;
+    float: left;
+    padding-right: 5%;
+  }
+
+  #PP > .cidade{
+    padding-top: 7%;
+    border-top: 2px solid #D8D8D8;
+  }
+
+  #machado{
+    display: inline-block;
+    padding-right: 16%;
+  }
+
+  #machado > .cidade{
+    padding-top: 7%;
+    border-top: 2px solid #D8D8D8;
+  }
+
+  #locais > #mirante{
+    margin-top: 2.4%;
+    display: inline;
+    float: right;
+    padding-left: 0;
+    padding-right: 14%;
+  }
+
+  #mirante > .cidade{
+    padding-top: 7%;
+    border-top: 2px solid #D8D8D8;
+  }
+
+  #pirapo{
+    margin-top: 0;
+    display: inline;
+    padding-left: 11.4%;
+    float: left;
+    padding-right: 5%;
+  }
+
+  #pirapo > .cidade{
+    padding-top: 7%;
+    border-top: 2px solid #D8D8D8;
+  }
+
+  #teodoro{
+    display: inline;
+    padding-left: 11.4%;
+    float: left;
+    padding-right: 44%;
+  }
+
+  #teodoro > .cidade{
+    padding-top: 7%;
+    border-top: 2px solid #D8D8D8;
+  }
+
+  #redes > div{
+    display: flex;
+    float: right;
+  }
+
+  .cidade{
+    font-size: 20px;
+  }
+
+  .velorio{
+    font-size: 16px;
+  }
+  
+  .ruas{
+    font-size: 16px;
+    margin-left: 5%;
+  }
+
+  #redes{
+    border-top: 2px solid rgba(0, 0, 0, 0.103);
+    margin-top: 6%;
+    background-color: #F8F4F1;
+    height: 900px;
+  }
+
+  #redes > div{
+    display: flex;
+    float: left;
+  }
+
+  .sociais{
+    padding-top: 21%;
+    padding-right: 2%;
+    width: 80px;
+    height: 80px;
+  }
+
+  #redes > div > a{
+    padding: 25%;
+  }
+
+  .politica{
+    padding-top: 2%;
+    padding-right: 5%;
+  }
+
+  #redes > .politica > p{
+    padding: 0;
+    font-size: 22px;
+  }
+
+  #redes > p{
+    display: flex;
+    float: left;
+  }
+
+  #numero{
+    display: inline;
+    float: left;
+    padding-right: 15%;
+    padding-top: 2%;
+  }
+
+  #redes > #numero > img{
+    float: left;
+  }
+
+  #redes > #numero > h5{
+    display: inline;
+    float: right;
+    color: #493DA6;
+    font-size: 38px;
+    font-weight: 700;
+  }
+
+  #redes > #numero > h5 > span{
+    font-size: 25px;
+  }
+
+  footer{
+    display: inline-block;
+    width: 1365px;
+    background: linear-gradient(254.62deg, #676EA4 0%, #493DA6 100%);
+
+  }
+
+  footer > #criacao{
+    background: none;
+    display: inline-block;
+    padding: 0%;
+    margin: 0%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+  }
+
+  footer > section{
+    display: none;
+  }
+
+  footer > #accessible{
+    display: flex;
+    float: left;
+    background: linear-gradient(270deg, #FF5A77 0%, #FA3992 100%);
+    border-top-right-radius: 25px;
+  }
+
+  #accessible > a{
+    text-decoration: none;
+    color: #F8F0EB;
+    font-weight: 600;
+    font-size: 16px ;
+    padding-top: 11%;
+    padding-bottom: 9%;
+  }
+
+  #whatsapp{
+    display: flex;
+    float: right;
+    padding-right: 3.5%;
+  }
+
+  #whatsapp > img{
+    cursor: pointer;
+    padding: 20%;
+    border: 1px solid #09C878;
+    background-color: #09C878;
+    border-radius: 50%;
+  }
+
+  #linguaPC{
+    display: inline;
+    float: right;
+    padding-right: 1.8%;
+    color: #D9D9D9;
+    padding: 0.5%;
+    border-top-left-radius: 50%;
+    border-bottom-left-radius: 50%;
+    background-color: #003087;
+  }
+}
