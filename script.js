@@ -92,3 +92,15 @@ function menu(){
     logo.style.left = '230px'
   }
 }
+
+function baixo(){
+  var baixo = document.querySelector('#maisOpcoes')
+  var opcoes = document.querySelector('#asOpcoes')
+  
+  if(opcoes.style.display == 'none'){
+    opcoes.style.display = 'inline'
+  }
+  else{
+    opcoes.style.display = 'none'
+  }
+}       

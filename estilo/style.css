@@ -588,3 +588,25 @@ menu > span{
 #setaEsquerda{
   display: none;
 }
+
+#asOpcoes{
+  display: none;
+  color: #FFFFFF;
+}
+
+#asOpcoes > p{
+  padding: 2%;
+  font-size: 19px;
+  cursor: pointer;
+}
+
+footer > section > menu > #aOpcoes > #linha{
+  padding-bottom: 0%;
+}
+
+#linha{
+  padding-bottom: 0%;
+  border-bottom: 3px solid #9ABD11;
+  margin-left: 10%;
+  margin-right: 10%;
+}
